@@ -3,12 +3,17 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>net.wasdev.maven.parent</groupId>
+    <parent>
+        <groupId>net.wasdev.maven.parent</groupId>
+        <artifactId>parent</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
     <artifactId>resource-bundle</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>WASdev resource bundle</name>
+    <name>WASdev Resource Bundle</name>
     <description>
-        WASdev resource bundle.
+        WASdev Resource Bundle.
     </description>
 
     <build>

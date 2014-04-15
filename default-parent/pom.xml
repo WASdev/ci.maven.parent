@@ -4,39 +4,18 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.sonatype.oss</groupId>
-        <artifactId>oss-parent</artifactId>
-        <version>7</version>
+        <groupId>net.wasdev.maven.parent</groupId>
+        <artifactId>parent</artifactId>
+        <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>net.wasdev.maven.parent</groupId>
-    <artifactId>parent</artifactId>
+    <artifactId>default-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>WASdev top-level parent POM</name>
+    <name>WASdev Default Parent POM</name>
     <description>
-        WASdev top-level parent POM.
+        WASdev Default Parent POM.
     </description>
-    <url>https://wasdev.github.io</url>
-
-    <licenses>
-        <license>
-            <name>The Apache Software License, Version 2.0</name>
-            <url>https://raw.github.com/WASdev/ci.maven.parent/master/LICENSE</url>
-            <distribution>repo</distribution>
-        </license>
-    </licenses>
-
-    <scm>
-        <connection>scm:git:git@github.com:WASdev/ci.maven.parent.git</connection>
-        <developerConnection>scm:git:git@github.com:WASdev/ci.maven.parent.git</developerConnection>
-        <url>git@github.com:WASdev/ci.maven.parent.git</url>
-    </scm>
-
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    </properties>
 
     <build>
         <pluginManagement>
