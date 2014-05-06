@@ -6,11 +6,11 @@
     <parent>
         <groupId>net.wasdev.maven.parent</groupId>
         <artifactId>parent</artifactId>
-        <version>1.1-SNAPSHOT</version>
+        <version>1.1</version>
     </parent>
 
     <artifactId>resource-bundle</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <name>WASdev Resource Bundle</name>
     <description>
         WASdev Resource Bundle.
