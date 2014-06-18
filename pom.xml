@@ -46,7 +46,7 @@
                     <artifactId>maven-javadoc-plugin</artifactId>
                     <version>2.7</version>
                     <configuration>
-                        <bottom><![CDATA[&#169; Copyright IBM Corporation {currentYear}. All Rights Reserved.]]></bottom>
+                        <bottom><![CDATA[Copyright &#169; {currentYear} the original author or authors.]]></bottom>
                     </configuration>
                 </plugin>
             </plugins>
