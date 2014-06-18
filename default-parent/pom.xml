@@ -52,7 +52,7 @@
                         </goals>
                         <configuration>
                             <resourceBundles>
-                                <resourceBundle>net.wasdev.maven.parent:resource-bundle:${project.version}</resourceBundle>
+                                <resourceBundle>net.wasdev.maven.parent:resource-bundle:1.1</resourceBundle>
                             </resourceBundles>
                         </configuration>
                     </execution>
