@@ -10,7 +10,6 @@
     </parent>
 
     <artifactId>resource-bundle</artifactId>
-    <version>1.3-SNAPSHOT</version>
     <name>WASdev Resource Bundle</name>
     <description>
         WASdev Resource Bundle.
