@@ -5,7 +5,7 @@
 
     <groupId>net.wasdev.maven.parent</groupId>
     <artifactId>parent</artifactId>
-    <version>1.4</version>
+    <version>1.5-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>WASdev Top Parent POM</name>
     <description>
@@ -25,7 +25,7 @@
         <connection>scm:git:git@github.com:WASdev/ci.maven.parent.git</connection>
         <developerConnection>scm:git:git@github.com:WASdev/ci.maven.parent.git</developerConnection>
         <url>git@github.com:WASdev/ci.maven.parent.git</url>
-      <tag>parent-1.4</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <developers>
