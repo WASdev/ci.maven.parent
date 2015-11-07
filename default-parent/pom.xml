@@ -68,6 +68,7 @@
     </build>
 
     <modules>
+        <module>java8-parent</module>
         <module>java7-parent</module>
         <module>java6-parent</module>
     </modules>
