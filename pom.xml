@@ -27,6 +27,14 @@
         <url>git@github.com:WASdev/ci.maven.parent.git</url>
     </scm>
 
+    <developers>
+        <developer>
+            <id>jgawor</id>
+            <name>Jarek Gawor</name>
+            <email>jgawor@gmail.com</email>
+        </developer>
+    </developers>
+
     <distributionManagement>
         <snapshotRepository>
             <id>sonatype-nexus-snapshots</id>
